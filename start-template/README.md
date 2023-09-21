@@ -17,8 +17,8 @@ This is a solution to the [name of the challenge](https://www.frontendmentor.io/
 
 ### Links
 
-- Solution URL: [click me](https://github.com/mikaeljan/frontend-mentor-projects/tree/qr-code-component)
-- Live Site URL: [click me](https://650c3d8e0de940298abf7558--frolicking-pony-4d3642.netlify.app/)
+- Solution URL: [click me](https://github.com/mikaeljan/frontend-mentor-projects/)
+- Live Site URL: [click me](https://google.com)
 
 ## My process
 
@@ -36,4 +36,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mikaeljan)
+- Frontend Mentor - [@mikaeljan](https://www.frontendmentor.io/profile/mikaeljan)
