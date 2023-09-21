@@ -10,9 +10,12 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --br-round: 1.25rem;
+  --br-round-base: 1.25rem;
+  --br-round-lite: 0.625rem;
 
   --fs-paragraph: 0.938rem;
+
+  --clr-shadow: rgba(0, 0, 0, 0.05);
 }
 
 * {

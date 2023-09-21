@@ -2,8 +2,8 @@
   import qrImage from "./assets/qr-code.png";
 </script>
 
-  <div class="qr-code-container round">
-    <img class=round alt="qr code" src={qrImage} width="288">
+  <div class="qr-code-container">
+    <img alt="qr code" src={qrImage} width="288">
     <h3>Improve your front-end skills by building projects</h3>
     <p class="description">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
   </div>
@@ -19,6 +19,8 @@
     background: var(--clr-white);
     margin: auto; 
     font-size: var(--fs-paragraph);
+    box-shadow: 0 1.563rem 1.563rem 0 var(--clr-shadow);
+    border-radius: var(--br-round-base);
   }
 
   .qr-code-container h3 {
@@ -34,7 +36,7 @@
     letter-spacing: 0.012rem;
   }
 
-  .round {
-    border-radius: var(--br-round);
+  .qr-code-container img {
+    border-radius: var(--br-round-lite);
   }
 </style>
