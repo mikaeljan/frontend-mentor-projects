@@ -1,10 +1,40 @@
 :root {
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-grey: hsl(220, 15%, 55%);
+  --clr-grey-light: hsl(212, 45%, 89%);
+  --clr-dark-navy: hsl(218, 44%, 22%);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --br-round: 1.25rem;
+
+  --fs-paragraph: 0.938rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+h3,
+p {
+  margin: 0;
+}
+
+body {
+  font-family: Outfit, "Times New Roman", Times, serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--clr-grey-light);
+  margin: 0;
 }
