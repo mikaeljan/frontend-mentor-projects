@@ -7,20 +7,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [Preview](#preview)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
-### Preview
-
-Live demo: www.replace-me.com
 
 ### Links
 
@@ -39,8 +32,9 @@ Live demo: www.replace-me.com
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Center div in 11 different ways. Unfortunately, I won't remember it.
+- How to deploy from [Netlify](https://www.netlify.com/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mikaeljan)
+- Frontend Mentor - [@mikaeljan](https://www.frontendmentor.io/profile/mikaeljan)
