@@ -17,8 +17,8 @@ This is a solution to the [name of the challenge](https://www.frontendmentor.io/
 
 ### Links
 
-- Solution URL: [click me](https://github.com/mikaeljan/frontend-mentor-projects/)
-- Live Site URL: [click me](https://google.com)
+- Solution URL: [click me](https://github.com/mikaeljan/frontend-mentor-projects/tree/workit-landing)
+- Live Site URL: [click me](https://workit-landing--remarkable-centaur-6546e9.netlify.app/)
 
 ## My process
 
