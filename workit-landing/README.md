@@ -1,10 +1,10 @@
-# Frontend Mentor Readme Template - Name of the challenge
+# Frontend Mentor - Workit landing page
 
-This is a solution to the [name of the challenge](https://www.frontendmentor.io/challenges/).
+This is a solution to the [name of the challenge](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu/hub).
 
 ## Table of contents
 
-- [Frontend Mentor - Name of the challenge](#frontend-mentor-readme-template---name-of-the-challenge)
+- [Frontend Mentor - Workit landing page](#frontend-mentor---workit-landing-page)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Links](#links)
@@ -32,7 +32,7 @@ This is a solution to the [name of the challenge](https://www.frontendmentor.io/
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
 
 ## Author
 
